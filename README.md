@@ -1,5 +1,6 @@
 # AlphaZero Gomoku
 A multi-threaded implementation of AlphaZero
+`D:\GitHub\alpha-zero-gomoku\venv\Scripts\activate.ps1`
 
 ## Features
 * Easy Free-style Gomoku
